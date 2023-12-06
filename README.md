@@ -1,21 +1,10 @@
-# Spice Detection and Marketplace App
+# Spicefy: spice up your life!
 
-Aplikasi ini dikembangkan oleh Tim CH2-PS349 Bangkit Capstone Project
+This app was developed by Team CH2-PS349 Bangkit Capstone Project
 
-## Deskripsi
+## Description
 
-Aplikasi ini memiliki dua fitur utama:
-
-1. **Deteksi Rempah**: Aplikasi dapat mendeteksi jenis rempah-rempah dengan menggunakan teknologi pengolahan citra. Pengguna dapat mengambil foto rempah-rempah atau mengunggah gambar dari galeri untuk mendapatkan informasi mengenai jenis rempah-rempah tersebut.
-
-2. **Marketplace Rempah**: Aplikasi menyediakan platform marketplace di mana pengguna dapat membeli dan menjual rempah-rempah.
-
-## Fitur
-
-- Deteksi Rempah dengan Teknologi Pengolahan Citra
-- Chatbot untuk menjawab pertanyaan seputar rempah
-- Platform Marketplace untuk Pembelian dan Penjualan Rempah
-- Informasi Rempah
+This spice detection app provides complete information about various types of spices in Indonesia. Using precision calculations based on spice image datasets, the app not only helps Generation Z accurately recognize spices, but also provides detailed information such as names, photos, and properties of spices. In addition, the app educates about the health benefits of spices and how to use them in healthy cooking. Through integration with online platforms, users can not only identify, but also buy or sell spices according to their needs, efficiently supporting the spice market ecosystem.
 
 ## Our Team
 
