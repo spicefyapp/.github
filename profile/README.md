@@ -21,5 +21,5 @@ This spice detection app provides complete information about various types of sp
 ## Repository
 
 1. [Machine Learning](https://github.com/spicefyapp/machine-learning)
-2. [Mobile Development](https://github.com/spicefyapp/mobile-application)
+2. [Mobile Development](https://github.com/spicefyapp/android_application)
 3. [Cloud Computing](https://github.com/spicefyapp/cloud-computing)
